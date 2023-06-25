@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp90", "WindowsFormsApp90\WindowsFormsApp90.csproj", "{937C4545-C5E5-4897-A78A-CCF974EF0346}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba_30_OOP", "WindowsFormsApp90\Laba_30_OOP.csproj", "{937C4545-C5E5-4897-A78A-CCF974EF0346}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
